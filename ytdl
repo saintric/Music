@@ -1,1 +1,2 @@
 youtube-dl [your Playlist] --extract-audio --audio-format m4a --yes-playlist --playlist-random --download-archive "/mnt/hgfs/[Shared folder]/[Folder]/[filename.txt]"  --output "/mnt/hgfs/[Shared folder]/[Folder]/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" --ignore-errors
+youtube-dl is up-to-date (2018.12.09)
